@@ -39,7 +39,6 @@ public class MainWindow extends Canvas {
                 g.fillRect(j*SQUARE_SIZE,i*SQUARE_SIZE,SQUARE_SIZE,SQUARE_SIZE);
                 //g.fillOval(100, 100, 200, 200);
             }
-            System.out.println( "\n");
         }
     }
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aa180e8-28da-4527-9cc6-19398cb63cae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snake.java" afterDir="false" />
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585622607816</updated>
-      <workItem from="1585622608973" duration="12468000" />
+      <workItem from="1585622608973" duration="17121000" />
     </task>
     <task id="LOCAL-00001" summary="coded some functions for Snake.java and started on GUI">
       <created>1585631708893</created>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585631708893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Successfully drawing board">
+      <created>1585635711241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585635711241</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="coded some functions for Snake.java and started on GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="coded some functions for Snake.java and started on GUI" />
+    <MESSAGE value="Successfully drawing board" />
+    <option name="LAST_COMMIT_MESSAGE" value="Successfully drawing board" />
   </component>
 </project>
